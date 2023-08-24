@@ -5,7 +5,7 @@
 - A video was taken from youtube as an example video.
 - "YOLOv8" was used as the model.
 
-![screenshot](https://github.com/hbaltunay/vehicle-detection-with-yolov8/assets/116020808/d324dee5-ff3c-43e0-bf30-02d609f1fd13)
+![screenshot](https://raw.githubusercontent.com/hbaltunay/vehicle-detection-with-yolov8/main/datasets/screenshot.png)
 
 Note: Ultralytics and Supervision libraries were used. The project was created with the help of Supervision libraries and notebooks.
 
